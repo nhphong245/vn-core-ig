@@ -1,2 +1,6 @@
-# sample-ig
-A sample, template-driven implementation guide that provides a starting environment to use a base for defining new IGs
+#  Welcome to the Vietnam Core Data for Interoperability TG Repository
+
+
+Authors:  Tran Tung, Nguyen Hai Phong
+
+This branch is the active branch for applying issues and trackers for the Continuous Integration (CI) Build for VN Core Data Implementation Guide. See the Directory of published versions for a list of US Core versions and change log.
